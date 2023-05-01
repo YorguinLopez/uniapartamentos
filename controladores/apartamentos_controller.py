@@ -3,6 +3,7 @@
 # Creado: 2023-04-25
 # Actualiza: Yorguin Lopez
 # Actualizado: 2023-04-29
+
 from modelos.apartamento import Apartamento
 import json
 

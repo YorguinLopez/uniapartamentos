@@ -3,6 +3,7 @@
 # Creado: 2023-04-25
 # Actualiza: Yorguin Lopez
 # Actualizado: 2023-04-27
+
 from modelos.apartamento import Apartamento
 from modelos.visita import Visita
 from utils.archivo import cargar_datos, guardar_datos
