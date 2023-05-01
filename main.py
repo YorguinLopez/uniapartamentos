@@ -1,4 +1,9 @@
 # main.py
+# Creador: Yoruguin Lopez
+# Creado: 2023-04-24
+# Actualiza: Yorguin Lopez
+# Actualizado: 2023-04-29
+
 from controladores.apartamentos_controller import ApartamentosController
 from controladores.visitas_controller import VisitasController
 from modelos.apartamento import Apartamento
